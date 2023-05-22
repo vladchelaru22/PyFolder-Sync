@@ -2,6 +2,7 @@
 
 This is a Test Task done in Python. It implements a script that synchronizes two folders: source and replica. The 
 program should maintain a full, identical copy of source folder at replica folder.
+
 "main.py" is the script itself, "Source" and "Copy" are two folders I used during the testing and "log" is the file I tracked the changes in.
 
 Some other considerations:
